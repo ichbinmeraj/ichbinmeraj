@@ -3,7 +3,7 @@
 ## About me
 
 I have been programming from my 15 and i started with c# but few months later i shift to python.
-currently i'm Django Back-end Web developer. i'm trying to learn MachineLearning and blcokchain(web3) development at the moment.
+currently i'm Django Back-end Web developer and i'm trying to learn MachineLearning and blcokchain(web3) development at the moment.
 
 simple and neat ;)
 
