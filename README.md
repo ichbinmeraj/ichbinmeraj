@@ -1,4 +1,4 @@
-# Hey! I'm [Meraj](https://twitter.com/merajsafari) :D
+# It's[Meraj](https://twitter.com/merajsafari) :D
 
 ### About me!
 I have been programming from my 15 and i started with **c#** but few months later i shift to **python**.
