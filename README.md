@@ -1,7 +1,7 @@
 # It's [Meraj](https://twitter.com/merajsafari) :D
 
 ### About me!
-I have been programming from my 15 and i started with **c#** but few months later i shift to **python**.
+I have been programming from my 15 and i started with **C#** and **C++** but few months later i shift to **python**.
 currently i'm **Django Back-end Web developer** and i'm trying to learn **MachineLearning** and **blcokchain(*web3*)** development at the moment.
 
 
