@@ -1,9 +1,7 @@
 # It's [Meraj](https://twitter.com/merajsafari) :D
 
 ### About me!
-I have been programming from my 15 and i started with **C#** and **C++** but few months later i shift to **python**.
-currently i'm **Django Back-end Web developer** and i'm trying to learn **MachineLearning** and **blcokchain(*web3*)**.
-on another hand im working with java and C++ in university.
+A 20-year-old computer enthusiast with five years of experience in web development. I specialize in back-end development using <span class='font-bold'>Django</span> and <span class='font-bold'>Python</span>. Additionally, I have worked with frameworks like Tailwind CSS and Bootstrap for front-end projects. I have also created feature-rich Telegram bots and dabbled in design projects.
 
 
 ## Skills
