@@ -1,7 +1,30 @@
 # It's [Meraj](https://twitter.com/merajsafari) :D
 
 ### About me!
-A 20-year-old computer enthusiast with five years of experience in web development. I specialize in back-end development using <span class='font-bold'>Django</span>, fastapi and <span class='font-bold'>Python</span>. Additionally, I have worked with frameworks like Tailwind CSS and Bootstrap for front-end projects. I have also created feature-rich Telegram bots and dabbled in design projects.
+Passionate programmer with over 5 years of experience in Python development.
+
+Currently exploring the intersection of data science, engineering, and creativity, with a focus on Django and Web3 technologies. Dedicated to making complex topics accessible to everyone, with a deep appreciation for the power of imagination.
+
+Skills:
+
+    Proficient in Python programming
+    Experienced with Django web development framework
+    Familiarity with Web3 technologies
+    Strong problem-solving and analytical skills
+    Excellent communication and collaboration abilities
+
+Areas of Expertise:
+
+    Web development and API integration
+    Creative problem-solving and design thinking
+
+Motivations:
+
+    To empower individuals with data literacy and understanding
+    To create innovative solutions that address real-world challenges
+    To bridge the gap between technology and human experience
+
+I am eager to contribute my skills and passion to an organization that values creativity, innovation, and making a positive impact.
 
 
 ## Skills
