@@ -3,13 +3,13 @@
 ### About me!
 Passionate programmer with over 5 years of experience in Python development.
 
-Currently exploring the intersection of data science, engineering, and creativity, with a focus on Django and Web3 technologies. Dedicated to making complex topics accessible to everyone, with a deep appreciation for the power of imagination.
+Currently exploring the intersection of data science, engineering, and creativity, with a focus on Django and computervision technologies. Dedicated to making complex topics accessible to everyone, with a deep appreciation for the power of imagination.
 
 Skills:
 
     Proficient in Python programming
     Experienced with Django web development framework
-    Familiarity with Web3 technologies
+    Familiarity with CV(computer vision) technologies
     Strong problem-solving and analytical skills
     Excellent communication and collaboration abilities
 
