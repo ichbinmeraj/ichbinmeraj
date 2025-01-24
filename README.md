@@ -1,6 +1,6 @@
 # It's [Meraj](https://twitter.com/merajsafari) :D
 
-### About me!
+
 A programmer with over 5 years of experience in Python development.
 
 Currently exploring the intersection of data science, engineering, and creativity, with a focus on Django and computervision technologies. Dedicated to making complex topics accessible to everyone, with a deep appreciation for the power of imagination.
