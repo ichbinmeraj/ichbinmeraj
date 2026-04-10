@@ -4,7 +4,7 @@
 
 ---
 
-I build IoT ecosystems for industrial automation — from backend APIs handling 100K+ messages/day to dashboards managing 500+ live devices. Previously led engineering teams and shipped products as a freelancer for 3+ years. I care about systems that are fast, reliable, and actually useful.
+I build IoT ecosystems for industrial automation  from backend APIs handling 100K+ messages/day to dashboards managing 500+ live devices. Previously led engineering teams and shipped products as a freelancer for 3+ years. I care about systems that are fast, reliable, and actually useful.
 
 
 ### Connect
